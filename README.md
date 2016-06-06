@@ -5,10 +5,10 @@
 
 3. Project running instructions :
 
-a. Open MySQL databse and open gardentrackerdb.sql	
+  a. Open MySQL databse and open gardentrackerdb.sql	
 
-b. Execute gardentrackerdb.sql, which will generate the database with tables and seed data
+  b. Execute gardentrackerdb.sql, which will generate the database with tables and seed data
 
-c. Open the project in Eclipse
+  c. Open the project in Eclipse
 
-d. Run the GardenTrackerPanel project.
+  d. Run the GardenTrackerPanel project.
